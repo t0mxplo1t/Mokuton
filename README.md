@@ -1,3 +1,5 @@
+# Function
+Mokuton is a tool created to extract information from phone numbers
 # Tested on
 Termux
 # Installation
