@@ -1,6 +1,9 @@
-# Phone Number Extractor
-Mokuton is a tool created to extract information from phone numbers
-# Generated information
+Mokuton
+----
+Mokuton is a tool used to extract information from mobile numbers
+
+Results
+----
 - Basic info
 - International format
 - National format
@@ -13,17 +16,23 @@ Mokuton is a tool created to extract information from phone numbers
 - ISP
 - Time zone
 - Geographic number
-# Tested on
+
+Tested on
+----
 Termux
-# Requirements
-Python
-# Module installation
-pip install phonenumbers
-# Installation
-apt install git
 
-git clone https://github.com/14sept2002/Mokuton.git
+Requirements
+----
+* Python
 
-cd Mokuton
+`pip install phonenumbers`
 
-python phone.py
+Commands
+----
+`apt install git`
+
+`git clone https://github.com/14sept2002/Mokuton.git`
+
+`cd Mokuton`
+
+`python phone.py`
