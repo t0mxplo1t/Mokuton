@@ -31,7 +31,7 @@ Commands
 ----
 `apt install git`
 
-`git clone https://github.com/14sept2002/Mokuton.git`
+`git clone https://github.com/t0mxplo1t/Mokuton.git`
 
 `cd Mokuton`
 
